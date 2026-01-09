@@ -11,10 +11,9 @@
 ## 🛠 Tech Stack
 - Python
 - HTML/CSS
-- (Ek kullandığın başka şeyler varsa yazabiliriz)
-
+-
 ## 📌 Usage
 Clone the project and run:
 
 ```bash
-python main.py
+python app.py
